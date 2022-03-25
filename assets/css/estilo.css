@@ -7,3 +7,12 @@ body {
     border: 10px solid #d89030;
     border-radius: 20px
 }
+
+
+.secao {
+    border:2px solid #851dfd;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
