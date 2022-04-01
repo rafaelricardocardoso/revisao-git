@@ -24,12 +24,10 @@ css
 
 lista de tarefas a fazer no repositorio:
 
-[x] melhorar a documentação
-
-[] ler a documentação sobre *markdown*
-
-[] ler a documentação do git/github
+- [ ] melhorar a documentação
+- [ ] ler a documentação sobre *markdown*
+- [ ] ler a documentação do git/github
 
 ## Referências
 
-* [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+- [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
