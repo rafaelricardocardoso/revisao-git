@@ -27,6 +27,10 @@ lista de tarefas a fazer no repositorio:
 - [ ] melhorar a documentação
 - [ ] ler a documentação sobre *markdown*
 - [ ] ler a documentação do git/github
+# BRANCHS
+git branch -> Lista as branchs do computador
+git branch nome_da_nova_branch_ ->não colocar acento ou ç, e use underscore para os espaços em branco
+git switch nome_da_branch -> muda de branch
 
 ## Referências
 
